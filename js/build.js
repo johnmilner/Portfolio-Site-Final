@@ -104,5 +104,4 @@ function createProjectGrid() {
     // }, {
     //     offset: '75%'
     // });
-    createProjectGrid();
 })(jQuery);
